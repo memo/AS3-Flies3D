@@ -1,0 +1,11 @@
+﻿<flash_project name="Particles3D" version="1">
+    <project_file path=".:Node3D.as" filetype="as" />
+    <project_file path=".:Vector3D.as" filetype="as" />
+    <project_file path=".:Particle3D.as" filetype="as" />
+    <project_file path=".:SpringyNode3D.as" filetype="as" />
+    <project_file path=".:ParticleSystem3D.as" filetype="as" />
+    <project_file path=".:Emitter3D.as" filetype="as" />
+    <project_file path=".:Flies3D.fla" filetype="fla" profile="" />
+    <project_file path=".:FPSCounter.as" filetype="as" />
+    <project_file path=".:MemoURL.as" filetype="as" />
+</flash_project>
